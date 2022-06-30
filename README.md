@@ -1,6 +1,8 @@
 # estudando-js
 Estudando javascript com Gusta Guanabara.
 
+
+
 // **************************************************** concatenando Strings ***********************************************\\
 
        // let n1 = Number(window.prompt('Digite um Número:  '));
